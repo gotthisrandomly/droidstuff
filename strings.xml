@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GTR</string>
+    <string name="app_notice_message">After granting the necessary permissions, the app will automatically start running in the background. Even if the application is closed or the phone is shut off or restarted, the app will start its service again upon boot. Please ensure the required permissions are granted for uninterrupted functionality.</string>
+</resources>
